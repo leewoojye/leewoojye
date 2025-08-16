@@ -1,24 +1,39 @@
 
-![header](https://capsule-render.vercel.app/api?type=Waving)
+![header](https://capsule-render.vercel.app/api?type=blur&color=27ae60)
 
-####  :wave: Welcome my github profile !
+## Welcome 환영해요 ようこそ Bienvenue. bienvenido 欢迎 مرحبا بكم
 
- <br/>
- <br/>
+### ☕️ I’m currently working on ...
+- DONGGUK UNIV. majoring CS
+
+### ☕️ I’m currently learning ...
+- Improve storage performance with deep learning
+- Time series data learning, reinforcement learning, machine learning
+- Open Source Understanding and Contributing Culture
+- Art technology convergence projects, for example, music creation systems, Nature of Code (by Daniel Shiffman)
  
-####  :clipboard: Once I've Used
-
- <br/>
- 
+###  ☕️ Here's my favorite STA buCKS menu ☕️ 
 <p float="left">
- <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+<img src="https://img.shields.io/badge/buymeacoffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black">
+<br>
+<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/nodedotjs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/nodedotjs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/coffeescript-2F2625?style=for-the-badge&logo=coffeescript&logoColor=white">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leewoojye)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whitehole36)](https://solved.ac/whitehole36/)
+
+[![leewoojye's GitHub stats](https://github-readme-stats.vercel.app/api?username=leewoojye&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leewoojye&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
