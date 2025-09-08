@@ -31,14 +31,12 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whitehole36)](https://solved.ac/whitehole36/)
 
-[![leewoojye's GitHub stats](https://github-readme-stats.vercel.app/api?username=leewoojye&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leewoojye&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
 **leewoojye/leewoojye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![leewoojye's GitHub stats](https://github-readme-stats.vercel.app/api?username=leewoojye&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
