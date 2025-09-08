@@ -8,7 +8,7 @@
 
 ### ☕️ I’m currently learning ...
 - Improve storage performance with deep learning
-- Time series data learning, reinforcement learning, machine learning
+- Generative Models, Reinforcement Learning, Machine Learning
 - Open Source Understanding and Contributing Culture
 - Art technology convergence projects, for example, music creation systems, Nature of Code (by Daniel Shiffman)
  
