@@ -7,10 +7,11 @@
 - DONGGUK UNIV. majoring CS
 
 ### ☕️ I’m currently learning ...
-- Improve storage performance with deep learning
-- Generative Models, Reinforcement Learning, Machine Learning
+- Generative/Multimodal Model, Transfer Learning, Reinforcement Learning
+- Natural language processing
 - Open Source Understanding and Contributing Culture
-- Art technology convergence projects, for example, music creation systems, Nature of Code (by Daniel Shiffman)
+- Knowledge transfer across different domains
+- Art technology convergence projects, for example, creative writing with AI, music creation systems
  
 ###  ☕️ Here's my favorite STA buCKS menu ☕️ 
 <p float="left">
