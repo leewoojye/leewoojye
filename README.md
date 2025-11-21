@@ -7,11 +7,11 @@
 - DONGGUK UNIV. majoring CS
 
 ### ☕️ I’m currently learning ...
-- Generative/Multimodal Model, Transfer Learning, Reinforcement Learning
-- Natural language processing
+- Knowledge transfer across (any) different domains
+- Multi-modal / Transfer Learning, Natural language processing
 - Open Source Understanding and Contributing Culture
-- Knowledge transfer across different domains
 - Art technology convergence projects, for example, creative writing with AI, music creation systems
+- Zero to One
  
 ###  ☕️ Here's my favorite STA buCKS menu ☕️ 
 <p float="left">
@@ -24,8 +24,6 @@
 <br>
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/nodedotjs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/coffeescript-2F2625?style=for-the-badge&logo=coffeescript&logoColor=white">
 </p>
