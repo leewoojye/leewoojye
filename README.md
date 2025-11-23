@@ -1,16 +1,13 @@
-
-![header](https://capsule-render.vercel.app/api?type=blur&color=27ae60)
-
 ## Welcome 환영해요 ようこそ Bienvenue. bienvenido 欢迎 مرحبا بكم
 
 ### ☕️ I’m currently working on ...
-- DONGGUK UNIV. majoring CS
+- DONGGUK UNIV. CSE
 
 ### ☕️ I’m currently learning ...
 - Knowledge transfer across (any) different domains
 - Multi-modal / Transfer Learning, Natural language processing
 - Open Source Understanding and Contributing Culture
-- Art technology convergence projects, for example, creative writing with AI, music creation systems
+- Art technology convergence projects, for example, creative writing with AI, music creation, Fashioneering
 - Zero to One
  
 ###  ☕️ Here's my favorite STA buCKS menu ☕️ 
