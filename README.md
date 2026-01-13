@@ -5,10 +5,10 @@
 
 ### ☕️ I’m currently learning ...
 - Knowledge transfer across (any) different domains
-- Multi-modal / Transfer Learning, Natural language processing
-- Open Source Understanding and Contributing Culture
+- Transfer Learning, Domain Generalization
+- Multi-modal Learning, Vision-Language-Action Model
+[//]: - Open Source Understanding and Contributing Culture
 - Art technology convergence projects, for example, creative writing with AI, music creation, Fashioneering
-- Zero to One
  
 ###  ☕️ Here's my favorite STA buCKS menu ☕️ 
 <p float="left">
