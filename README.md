@@ -7,8 +7,8 @@
 - Knowledge transfer across (any) different domains
 - Transfer Learning, Domain Generalization
 - Multi-modal Learning, Vision-Language-Action Model
-[//]: - Open Source Understanding and Contributing Culture
 - Art technology convergence projects, for example, creative writing with AI, music creation, Fashioneering
+<!-- - Open Source Understanding and Contributing Culture -->
  
 ###  ☕️ Here's my favorite STA buCKS menu ☕️ 
 <p float="left">
