@@ -1,14 +1,21 @@
 ## Welcome 환영해요 ようこそ Bienvenue. bienvenido 欢迎 مرحبا بكم
 
-### ☕️ I’m currently working on ...
-- DONGGUK UNIV. CSE
+### ☕️ I’m currently working on
+- Dongguk University, Seoul (Department of Computer Engineering)
 
-### ☕️ I’m currently learning ...
-- Knowledge transfer across (any) different domains
-- Transfer Learning, Domain Generalization
-- Multi-modal Learning, Vision-Language-Action Model
-- Art technology convergence projects, for example, creative writing with AI, music creation, Fashioneering
-<!-- - Open Source Understanding and Contributing Culture -->
+### ☕️ Research Interests and Current Studies
+- Knowledge transfer across different domains & domain adaptation
+  - Unsupervised Domain Adaptation for Ship Classification via Progressive Feature Alignment: From Optical to SAR Images
+  - One-Shot Multilingual Font Generation Via ViT
+  - Universal Domain Adaptation through Self-Supervision
+- Human-Robot feature alignment
+  - EgoBridge: Domain Adaptation for Generalizable Imitation from Egocentric Human Data
+  - EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos
+- Representation Learning
+  - MedCLIP-SAMv2: Towards Universal Text-Driven Medical Image Segmentation
+- Essential Mathematics for Artificial Intelligence
+- Others
+  - Direct Preference Optimization: Your Language Model is Secretly a Reward Model
  
 ###  ☕️ Here's my favorite STA buCKS menu ☕️ 
 <p float="left">
