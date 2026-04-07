@@ -17,7 +17,6 @@
  
 ###  ☕️ Here's my favorite STA buCKS menu ☕️ 
 <p float="left">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
 <img src="https://img.shields.io/badge/buymeacoffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black">
 <br>
