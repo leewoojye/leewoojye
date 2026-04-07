@@ -4,16 +4,14 @@
 - Dongguk University, Seoul (Department of Computer Engineering)
 
 ### ☕️ Research Interests and Current Studies
-- Knowledge transfer across different domains & domain adaptation
-  - Unsupervised Domain Adaptation for Ship Classification via Progressive Feature Alignment: From Optical to SAR Images
-  - One-Shot Multilingual Font Generation Via ViT
-  - Universal Domain Adaptation through Self-Supervision
-- Human-Robot feature alignment
+- Human-Robot alignment
   - EgoBridge: Domain Adaptation for Generalizable Imitation from Egocentric Human Data
   - EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos
+- Domain adaptation
+  - Unsupervised Domain Adaptation for Ship Classification via Progressive Feature Alignment: From Optical to SAR Images
 - Representation Learning
   - MedCLIP-SAMv2: Towards Universal Text-Driven Medical Image Segmentation
-- Essential Mathematics for Artificial Intelligence
+  - Latent Action Pretraining from Videos
 - Others
   - Direct Preference Optimization: Your Language Model is Secretly a Reward Model
  
