@@ -1,19 +1,13 @@
 ## Welcome 환영해요 ようこそ Bienvenue. bienvenido 欢迎 مرحبا بكم
 
 ### ☕️ I’m currently working on
-- Dongguk University, Seoul (Department of Computer Engineering)
+- Dongguk University, Seoul (B.S. in Department of Computer Science and AI)
 
-### ☕️ Research Interests and Current Studies
-- Human-Robot alignment
-  - EgoBridge: Domain Adaptation for Generalizable Imitation from Egocentric Human Data
-  - EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos
-- Domain adaptation
-  - Unsupervised Domain Adaptation for Ship Classification via Progressive Feature Alignment: From Optical to SAR Images
-- Representation Learning
-  - MedCLIP-SAMv2: Towards Universal Text-Driven Medical Image Segmentation
-  - Latent Action Pretraining from Videos
-- Others
-  - Direct Preference Optimization: Your Language Model is Secretly a Reward Model
+### ☕️ Research Interests and Current Studies (Updated Jun 28, 2026)
+- Robot Intelligence: physics-based simulation, trajectory optimization, and motion learning.
+- Human-Robot Alignment: imitation learning, VLA models, and embodiment-agnostic representations.
+- Medical AI & Computer Vision: medical vision-language models and data-efficient segmentation.
+- Analogical Reasoning: cross-domain methods inspired by robotics, physics, and nature.
  
 ###  ☕️ Here's my favorite STA buCKS menu ☕️ 
 <p float="left">
@@ -25,6 +19,7 @@
 <br>
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/mujoco-0F4C81?style=for-the-badge&logo=deepmind&logoColor=white" alt="MuJoCo badge">
 <br>
 <img src="https://img.shields.io/badge/coffeescript-2F2625?style=for-the-badge&logo=coffeescript&logoColor=white">
 </p>
