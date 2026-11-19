@@ -17,7 +17,7 @@
 
 ⭐️ I write about my experiments and the papers behind them on my [research blog](https://leewoojye.github.io/blog). ⭐️
 
-### ☕️ Other research topics of interest (Jun 28, 2026)
+### ☕️ Other research topics of interest (Updated Jun 28, 2026)
 - Robot Intelligence: physics-based simulation, trajectory optimization, and motion learning.
 - Human-Robot Alignment: imitation learning, VLA models, and embodiment-agnostic representations.
 - Medical AI & Computer Vision: medical vision-language models and data-efficient segmentation.
