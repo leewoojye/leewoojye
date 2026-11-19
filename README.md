@@ -8,8 +8,7 @@
 - **Surgical video perception.** I study how to detect and segment regions marked by indocyanine green (ICG) in endoscopic video and track the same tissue through deformation, occlusion, and changes in fluorescence.
 - **Data-efficient robot learning.** I’m interested in what first-person videos of human manipulation can teach a robot, especially when only a small set of robot demonstrations is available.
 - **Motion planning and control.** I use MuJoCo to study model predictive path integral control (MPPI) for surgical manipulators. One constraint I work with is that the instrument shaft must pivot around a fixed entry point as its tip moves.
-- **Medical vision–language models.** In TaSA(Target-State Matching Preference Optimization for Vision--Language Alignment in Context-Sharing Domains
-), I helped construct pairs of medical images with and without a target lesion and tested whether image–text similarity changed when the lesion was removed.
+- **Medical vision–language models.** In TaSA(Target-State Matching Preference Optimization for Vision--Language Alignment in Context-Sharing Domains), I helped construct pairs of medical images with and without a target lesion and tested whether image–text similarity changed when the lesion was removed.
 
 ### 🔬 Selected experiments (Updated November 20, 2026)
 - **Tracking tissue after fluorescence fades.** I compared point tracking with SAM 2 mask propagation on endoscopic video. In one low-contrast sequence, the point tracker lost all 16 tracked points. The mask persisted longer but sometimes spread onto neighboring tissue. That distinction matters for a surgical overlay: a mask can stay visible even after it has lost the original target.
