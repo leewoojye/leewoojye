@@ -5,17 +5,19 @@
 - (2020.03 ~ 2026.07) Dongguk University, Seoul (B.S. in Department of Computer Science and AI)
 
 ### ☕️ Research interests and current studies (Updated November 20, 2026)
-- Surgical video perception. I study how to detect and segment regions marked by indocyanine green (ICG) in endoscopic video, then track the same tissue as it deforms, moves behind an instrument, or loses its visible fluorescence.
-- Data-efficient robot learning. I’m interested in which cues from first-person human demonstrations transfer to robotic manipulation, especially when only a small set of robot videos is available.
-- Motion planning and control. I study model predictive path integral control (MPPI) in MuJoCo, with a focus on planning smooth tool motion under the kinematic constraints of surgical manipulators.
-- Medical vision–language models. I study whether a model’s response changes when a lesion is removed but the surrounding anatomy stays the same. In TaSA, I worked on constructing these image pairs and evaluating whether image–text similarity reflected lesion presence.
+- **Surgical video perception.** I study how to detect and segment regions marked by indocyanine green (ICG) in endoscopic video and track the same tissue through deformation, occlusion, and changes in fluorescence.
+- **Data-efficient robot learning.** I’m interested in what first-person videos of human manipulation can teach a robot, especially when only a small set of robot demonstrations is available.
+- **Motion planning and control.** I use MuJoCo to study model predictive path integral control (MPPI) for surgical manipulators. One constraint I work with is that the instrument shaft must pivot around a fixed entry point as its tip moves.
+- **Medical vision–language models.** In TaSA, I helped construct pairs of medical images with and without a target lesion and tested whether image–text similarity changed when the lesion was removed.
 
 ### 🔬 Selected experiments (Updated November 20, 2026)
-- Tracking tissue after the fluorescence fades. I compared point tracking with SAM 2 mask propagation on endoscopic video. In one low-contrast sequence, the point tracker lost all its tracked points, while the propagated mask sometimes expanded onto neighboring tissue. That observation shapes how I evaluate tracking: a mask can persist even when it follows the wrong tissue.
-- Needle reaching in simulation. I built a teleoperation demo for the da Vinci Research Kit’s patient-side manipulator. It reports both tool-tip error and deviation from the remote center of motion, so I can see when improving one comes at the expense of the other. MuJoCo demo
-- Learning from first-person video. I compared DreamDojo-2B and Cosmos-Predict 2.5 on the same surgical clips, using the first frame to predict the next 12. Holding the training budget fixed let me test how much the choice of pretrained model mattered on a small dataset.
+- **Tracking tissue after fluorescence fades.** I compared point tracking with SAM 2 mask propagation on endoscopic video. In one low-contrast sequence, the point tracker lost all 16 tracked points. The mask persisted longer but sometimes spread onto neighboring tissue. That distinction matters for a surgical overlay: a mask can stay visible even after it has lost the original target.
+- **Needle reaching in simulation.** I built a teleoperation demo for the da Vinci Research Kit’s patient-side manipulator. The demo displays two errors as the instrument moves: how far the tip is from the needle target and how far the shaft deviates from its intended pivot. [Explore the MuJoCo demo](https://github.com/leewoojye/myjoco_playground)
+- **Predicting surgical video from a single frame.** I compared DreamDojo-2B and Cosmos-Predict 2.5 on the same surgical clips, giving each model the first frame and asking it to predict the next 12. Using the same training budget let me examine what a model pretrained on first-person human video could transfer to a surgical scene.
 
-### ☕️ Research interests and current studies (Jun 28, 2026)
+I write about my experiments and the papers behind them on my [research blog](https://leewoojye.github.io/blog).
+
+### ☕️ Other research topics of interest (Jun 28, 2026)
 - Robot Intelligence: physics-based simulation, trajectory optimization, and motion learning.
 - Human-Robot Alignment: imitation learning, VLA models, and embodiment-agnostic representations.
 - Medical AI & Computer Vision: medical vision-language models and data-efficient segmentation.
