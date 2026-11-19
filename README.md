@@ -15,7 +15,7 @@
 - **Needle reaching in simulation.** I built a teleoperation demo for the da Vinci Research Kit’s patient-side manipulator. The demo displays two errors as the instrument moves: how far the tip is from the needle target and how far the shaft deviates from its intended pivot. [Explore the MuJoCo demo](https://github.com/leewoojye/myjoco_playground)
 - **Predicting surgical video from a single frame.** I compared DreamDojo-2B and Cosmos-Predict 2.5 on the same surgical clips, giving each model the first frame and asking it to predict the next 12. Using the same training budget let me examine what a model pretrained on first-person human video could transfer to a surgical scene.
 
-I write about my experiments and the papers behind them on my [research blog](https://leewoojye.github.io/blog).
+⭐️ I write about my experiments and the papers behind them on my [research blog](https://leewoojye.github.io/blog). ⭐️
 
 ### ☕️ Other research topics of interest (Jun 28, 2026)
 - Robot Intelligence: physics-based simulation, trajectory optimization, and motion learning.
